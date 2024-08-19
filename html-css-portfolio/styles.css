@@ -1,0 +1,94 @@
+body{
+    background-color: #E2DAD6;
+    margin: 0;
+}
+/*SECTION 1*/
+.sec1{
+    background-image: url("./images/bg.png");
+    height: 900px;
+    text-align: center;
+    font-size: 45px;
+}
+.sec1 div{
+    position: relative;
+    top: 110px;
+    left: 10px;
+}
+.sec1 h1{
+    font-family: Dancing Script;
+}
+
+/*SECTION 2*/
+.sec2{
+    background-color: #F5EDED;
+    padding: 60px;
+    text-align: center;
+    font-size: 25px;
+}
+.picture{
+    border-radius: 50%;
+    width: 300px;
+    height: 250px;
+}
+.sec2 p{
+    color: #265073;
+}
+span{
+    font-weight: bolder;
+    font-size: larger;
+}
+
+
+/*SECTION 3*/
+.sec3{
+    padding: 40px;
+    text-align: center;
+}
+.sec3 h1{
+    font-size: 50px;
+}
+.card img{
+    width: 200px;
+    height: 200px;
+}
+.sec3 .card{
+    width: 300px;
+    margin: 15px;
+    background-color:#F5EDED;
+    display: inline-block;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.card div{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    color: #265073;
+}
+
+/*SECTION 4*/
+.sec4{
+    background-color: #F5EDED;
+    padding: 50px;
+    text-align: center;
+}
+.sec4 h1{
+    font-size: 50px;
+}
+.sec4 a img{
+    margin: 15px;
+    width: 50px;
+    height: 50px;
+}
+
+/*FOOTER*/
+footer{
+    background-color:#7FA1C3;
+    height: 100px;
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
+}
+footer p{
+    position: relative;
+    top: 20px;
+}
